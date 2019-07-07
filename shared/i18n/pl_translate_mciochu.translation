@@ -1,16 +1,16 @@
 {
   "info": {
-    "name": "Polish translation, based on Google Translate", 
+    "name": "Język Polski / Polish language", 
     "contributors": [
       {
-        "name": "Google Translate, via script by Markus Hadenfeldt", 
+        "name": "Polish translations by Mciochu", 
         "email": "gtr.i18n.client@teaspeak.de"
       }
     ]
   }, 
   "translations": [
     {
-      "translated": "Nie mo\u017cna zainicjowa\u0107 kontrolera audio!", 
+      "translated": "Nie udało się zainicjować sterownika audio!", 
       "flags": [
         "google-translate"
       ], 
@@ -19,7 +19,7 @@
       }
     }, 
     {
-      "translated": "Rozpocz\u0105\u0142 si\u0119 d\u017awi\u0119k", 
+      "translated": "Dźwięki zainicjowane", 
       "flags": [
         "google-translate"
       ], 
@@ -28,7 +28,7 @@
       }
     }, 
     {
-      "translated": "[AudioController] Masz pusty lub niezdefiniowany bufor! Upuszczam to", 
+      "translated": "[SterownikAudio] Pusty lub nieokreślony bufor! Upuszczam go", 
       "flags": [
         "google-translate"
       ], 
@@ -37,7 +37,7 @@
       }
     }, 
     {
-      "translated": "[AudioController] Nie uda\u0142o si\u0119 odtworzy\u0107 d\u017awi\u0119ku. Globalny kontekst audio nie zosta\u0142 jeszcze zainicjowany!", 
+      "translated": "[SterownikAudio] Nie udało się odtworzyć dźwięku. Globalny kontekst audio nie został jeszcze zainicjowany!", 
       "flags": [
         "google-translate"
       ], 
@@ -46,7 +46,7 @@
       }
     }, 
     {
-      "translated": "[AudioController] Cz\u0119stotliwo\u015b\u0107 pr\u00f3bkowania \u017ar\u00f3d\u0142a nie jest r\u00f3wna cz\u0119stotliwo\u015bci pr\u00f3bkowania odtwarzania! (%o |%o)", 
+      "translated": "[SterownikAudio] Częstotliwość próbkowania źródła nie jest równa częstotliwości próbkowania odtwarzania! (%o |%o)", 
       "flags": [
         "google-translate"
       ], 
@@ -55,7 +55,7 @@
       }
     }, 
     {
-      "translated": "[Audio] Rozpoczynanie nowego odtwarzania", 
+      "translated": "[Dźwięk] Rozpoczęcie nowego odtwarzania", 
       "flags": [
         "google-translate"
       ], 
@@ -64,7 +64,7 @@
       }
     }, 
     {
-      "translated": "[D\u017awi\u0119k] Prebuffering powiod\u0142o si\u0119 (Powt\u00f3rka teraz)", 
+      "translated": "[Dźwięk] Udało się wstępne buforowanie (Odtworzenie)", 
       "flags": [
         "google-translate"
       ], 
@@ -73,7 +73,7 @@
       }
     }, 
     {
-      "translated": "[Audio] Buforowanie si\u0119 powiod\u0142o (Powt\u00f3rka teraz)", 
+      "translated": "[Dźwięk] Buforowanie powiodło się (Odtworzenie)", 
       "flags": [
         "google-translate"
       ], 
@@ -82,7 +82,7 @@
       }
     }, 
     {
-      "translated": "Upuszczanie bufora, poniewa\u017c kolejka odtwarzania ro\u015bnie bardzo", 
+      "translated": "Spadający bufor, ponieważ kolejka odtwarzania rośnie do bardzo dużych rozmiarów.", 
       "flags": [
         "google-translate"
       ], 
@@ -91,7 +91,7 @@
       }
     }, 
     {
-      "translated": "[Audio] Wykryto niedope\u0142nienie bufora!", 
+      "translated": "[Dźwięk] Wykryto niedopływ bufora!", 
       "flags": [
         "google-translate"
       ], 
@@ -100,7 +100,7 @@
       }
     }, 
     {
-      "translated": "[D\u017awi\u0119k] Buforowanie przekroczy\u0142o limit czasu. P\u0142ukanie i zatrzymywanie powt\u00f3rki", 
+      "translated": "[Dźwięk] Buforowanie przekroczyło limit czasu. Czyszczenie i zatrzymanie powtórki", 
       "flags": [
         "google-translate"
       ], 
@@ -109,7 +109,7 @@
       }
     }, 
     {
-      "translated": "Json nie zawiera%s", 
+      "translated": "Json nie zawiera %s", 
       "flags": [
         "google-translate"
       ], 
@@ -118,7 +118,7 @@
       }
     }, 
     {
-      "translated": "Validator daje warto\u015b\u0107 false dla%s", 
+      "translated": "Walidator skutkuje nieprawdziwym wynikiem dla %s", 
       "flags": [
         "google-translate"
       ], 
@@ -127,7 +127,7 @@
       }
     }, 
     {
-      "translated": "Niepoprawny typ obiektu%s dla wpisu%s", 
+      "translated": "Nieprawidłowy typ obiektu %s dla wprowadzania danych %s", 
       "flags": [
         "google-translate"
       ], 
@@ -190,7 +190,7 @@
       }
     }, 
     {
-      "translated": "Otrzyma\u0142em niezdefiniowany typ!", 
+      "translated": "Nie zdefiniowany typ!", 
       "flags": [
         "google-translate"
       ], 
@@ -208,7 +208,7 @@
       }
     }, 
     {
-      "translated": "Wykryto klucz VAD. <br> Zresetuj sw\u00f3j klucz PPT!", 
+      "translated": "Wykryto klucz VAD. <br>Proszę zresetować swój klucz PPT!", 
       "flags": [
         "google-translate"
       ], 
@@ -217,7 +217,7 @@
       }
     }, 
     {
-      "translated": "Nieprawid\u0142owy modu\u0142 VAD (detektor aktywacji g\u0142osowej)! (%o)", 
+      "translated": "Niewłaściwy VAD (Detektor aktywacji głosowej) (%o)", 
       "flags": [
         "google-translate"
       ], 
@@ -226,7 +226,7 @@
       }
     }, 
     {
-      "translated": "[VoiceRecorder] Rozpocznij nagrywanie! (Urz\u0105dzenie:%o | Grupa:%o)", 
+      "translated": "[RejestratorGłosu] Rozpocznij nagrywanie! (Urządzenie: %o | Grupa: %o)", 
       "flags": [
         "google-translate"
       ], 
@@ -235,7 +235,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna rozwi\u0105za\u0107 mikrofonu!", 
+      "translated": "Nie udało się rozwiązać problemu z mikrofonem!", 
       "flags": [
         "google-translate"
       ], 
@@ -244,7 +244,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna rozwi\u0105za\u0107 mikrofonu! <br> Wiadomo\u015b\u0107:", 
+      "translated": "Nie można było znaleźć mikrofonu!<br>Message: ", 
       "flags": [
         "google-translate"
       ], 
@@ -253,7 +253,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna uzyska\u0107 mikrofonu!", 
+      "translated": "Nie mogłem podłączyć mikrofonu!", 
       "flags": [
         "google-translate"
       ], 
@@ -262,7 +262,7 @@
       }
     }, 
     {
-      "translated": "Zatrzymaj nagrywanie!", 
+      "translated": "Przestań nagrywać!", 
       "flags": [
         "google-translate"
       ], 
@@ -271,7 +271,7 @@
       }
     }, 
     {
-      "translated": "[VoiceRecorder] Dosta\u0142em strumie\u0144 mikrofonu, ale nie mam kontekstu d\u017awi\u0119kowego. Oczekiwanie na jej inicjalizacj\u0119", 
+      "translated": "[RejestratorGłosu] Znalazłem sygnał z mikrofonu, ale nie ma dźwięku. Czekanie na inicjalizację", 
       "flags": [
         "google-translate"
       ], 
@@ -280,7 +280,7 @@
       }
     }, 
     {
-      "translated": "Pu\u015b\u0107 ponownie! (%o)", 
+      "translated": "Wypuść jeszcze raz! (%o)", 
       "flags": [
         "google-translate"
       ], 
@@ -289,7 +289,7 @@
       }
     }, 
     {
-      "translated": "Wy\u0142\u0105czanie obs\u0142ugi kodek\u00f3w dla", 
+      "translated": "Wyłączenie obsługi kodeków dla ", 
       "flags": [
         "google-translate"
       ], 
@@ -298,7 +298,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna za\u0142adowa\u0107 sterownika kodera-dekodera", 
+      "translated": "Nie można było załadować kierowcy kodeka", 
       "flags": [
         "google-translate"
       ], 
@@ -307,7 +307,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna za\u0142adowa\u0107 ani zainicjowa\u0107 kodeka", 
+      "translated": "Nie można było załadować lub zainicjować kodeków", 
       "flags": [
         "google-translate"
       ], 
@@ -316,7 +316,7 @@
       }
     }, 
     {
-      "translated": "nieobs\u0142ugiwany kodek!", 
+      "translated": "nieobsługiwany kodek!", 
       "flags": [
         "google-translate"
       ], 
@@ -325,7 +325,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna zainicjowa\u0107 kodeka! B\u0142\u0105d:%o", 
+      "translated": "Nie mogłem zainicjować kodeka! \nBłąd: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -334,7 +334,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna zainicjowa\u0107 kodeka!", 
+      "translated": "Nie można było zainicjować kodeków!", 
       "flags": [
         "google-translate"
       ], 
@@ -397,7 +397,7 @@
       }
     }, 
     {
-      "translated": "Inicjowanie programu obs\u0142ugi g\u0142osu po zainicjowaniu kontrolera AudioController!", 
+      "translated": "Inicjalizacja obsługi głosowej po zainicjowaniu AudioControllera!", 
       "flags": [
         "google-translate"
       ], 
@@ -406,7 +406,7 @@
       }
     }, 
     {
-      "translated": "Konfigurowanie natywnego strumienia g\u0142osu!", 
+      "translated": "Konfiguracja natywnego strumienia głosu!", 
       "flags": [
         "google-translate"
       ], 
@@ -415,7 +415,7 @@
       }
     }, 
     {
-      "translated": "Natywny kodek nie jest obs\u0142ugiwany!", 
+      "translated": "Natywny kodek nie jest obsługiwany!", 
       "flags": [
         "google-translate"
       ], 
@@ -424,7 +424,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna przenie\u015b\u0107 d\u017awi\u0119ku (brak po\u0142\u0105czenia)", 
+      "translated": "Nie można było przesyłać dźwięku (nie podłączono)", 
       "flags": [
         "google-translate"
       ], 
@@ -442,7 +442,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna utworzy\u0107 oferty lodu!", 
+      "translated": "Nie można było stworzyć oferty lodu!", 
       "flags": [
         "google-translate"
       ], 
@@ -460,7 +460,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna zastosowa\u0107 zdalnego opisu:%o", 
+      "translated": "Nie udało się zastosować opisu zdalnego:%o", 
       "flags": [
         "google-translate"
       ], 
@@ -469,7 +469,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 doda\u0107 zdalnie buforowanego kandydata na lodowisko%s:%o", 
+      "translated": "Nie dodano zdalnie buforowanego kandydata na lód %s: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -478,7 +478,7 @@
       }
     }, 
     {
-      "translated": "Dodaj zdalny l\u00f3d! (%s |%o)", 
+      "translated": "Dodaj zdalny lód! (%s | %o)", 
       "flags": [
         "google-translate"
       ], 
@@ -505,7 +505,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 skonfigurowa\u0107 mostu g\u0142osowego ({}). Zezwalaj na ponowne po\u0142\u0105czenie: {}", 
+      "translated": "Nie udało się skonfigurować połączenia głosowego ({}). Zezwolenie na ponowne połączenie: {}", 
       "flags": [
         "google-translate"
       ], 
@@ -514,7 +514,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 skonfigurowa\u0107 mostu g\u0142osowego (%s). Zezwalaj na ponowne po\u0142\u0105czenie:%s", 
+      "translated": "Nie udało się skonfigurować połączenia głosowego (%s). Zezwolenie na ponowne połączenie: %s", 
       "flags": [
         "google-translate"
       ], 
@@ -541,7 +541,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna zastosowa\u0107 opisu lokalnego:%o", 
+      "translated": "Nie zastosowano opisu lokalnego: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -550,7 +550,7 @@
       }
     }, 
     {
-      "translated": "Wy\u015blij ofert\u0119:%o", 
+      "translated": "Wyślij ofertę: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -559,7 +559,7 @@
       }
     }, 
     {
-      "translated": "Mam nowy kana\u0142 danych! (%s)", 
+      "translated": "Znalazłem nowy kanał danych! (%s)", 
       "flags": [
         "google-translate"
       ], 
@@ -568,16 +568,16 @@
       }
     }, 
     {
-      "translated": "Masz g\u0142os od nieznanego klienta? (ClientID:%o)", 
+      "translated": "Masz głos nieznanego klienta? (ClientID: %o)", 
       "flags": [
         "google-translate"
       ], 
       "key": {
-        "message": "Having  voice from unknown client? (ClientID: %o)"
+        "message": "Having voice from unknown client? (ClientID: %o)"
       }
     }, 
     {
-      "translated": "Nie mo\u017cna odtwarza\u0107 kodeku%o", 
+      "translated": "Nie można było odtworzyć kodeków", 
       "flags": [
         "google-translate"
       ], 
@@ -586,7 +586,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna odtworzy\u0107 d\u017awi\u0119ku klienta (%o) (%o)", 
+      "translated": "Nie mogłem odtworzyć danych klienta (%o) dźwięku (%o)", 
       "flags": [
         "google-translate"
       ], 
@@ -595,7 +595,7 @@
       }
     }, 
     {
-      "translated": "Lokalny g\u0142os zako\u0144czy\u0142 si\u0119", 
+      "translated": "Lokalny głos zakończył się", 
       "flags": [
         "google-translate"
       ], 
@@ -604,7 +604,7 @@
       }
     }, 
     {
-      "translated": "Rozpocz\u0105\u0142 si\u0119 lokalny g\u0142os", 
+      "translated": "Lokalny głos został uruchomiony", 
       "flags": [
         "google-translate"
       ], 
@@ -613,7 +613,7 @@
       }
     }, 
     {
-      "translated": "<b>Prze\u0142\u0105cz na kana\u0142</b>", 
+      "translated": "<b>Przejście na kanał</b>", 
       "flags": [
         "google-translate"
       ], 
@@ -622,7 +622,7 @@
       }
     }, 
     {
-      "translated": "Edytuj kana\u0142", 
+      "translated": "Edycja kanału", 
       "flags": [
         "google-translate"
       ], 
@@ -631,7 +631,7 @@
       }
     }, 
     {
-      "translated": "Zmieniono w\u0142a\u015bciwo\u015bci kana\u0142u kana\u0142u%s:%o", 
+      "translated": "Zmieniono właściwości kanału %s: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -640,7 +640,7 @@
       }
     }, 
     {
-      "translated": "Usu\u0144 kana\u0142", 
+      "translated": "Usuń kanał", 
       "flags": [
         "google-translate"
       ], 
@@ -649,7 +649,7 @@
       }
     }, 
     {
-      "translated": "Utw\u00f3rz bota muzycznego", 
+      "translated": "Tworzenie bota muzycznego", 
       "flags": [
         "google-translate"
       ], 
@@ -658,7 +658,7 @@
       }
     }, 
     {
-      "translated": "Bot zosta\u0142 pomy\u015blnie utworzony", 
+      "translated": "Bot został pomyślnie utworzony", 
       "flags": [
         "google-translate"
       ], 
@@ -667,7 +667,7 @@
       }
     }, 
     {
-      "translated": "Ale zosta\u0142 pomy\u015blnie utworzony.", 
+      "translated": "Ale został pomyślnie stworzony.", 
       "flags": [
         "google-translate"
       ], 
@@ -676,7 +676,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 utworzy\u0107 bota", 
+      "translated": "Nie udało się stworzyć bota", 
       "flags": [
         "google-translate"
       ], 
@@ -685,7 +685,7 @@
       }
     }, 
     {
-      "translated": "Utw\u00f3rz podkana\u0142", 
+      "translated": "Utwórz podkanał", 
       "flags": [
         "google-translate"
       ], 
@@ -694,7 +694,7 @@
       }
     }, 
     {
-      "translated": "Utw\u00f3rz kana\u0142", 
+      "translated": "Utwórz kanał", 
       "flags": [
         "google-translate"
       ], 
@@ -703,7 +703,7 @@
       }
     }, 
     {
-      "translated": "Opcje kana\u0142u: &quot;%o&quot;", 
+      "translated": "Opcje kanału: '%o'", 
       "flags": [
         "google-translate"
       ], 
@@ -712,7 +712,7 @@
       }
     }, 
     {
-      "translated": "Otrzymano nazw\u0119 kana\u0142u:%o", 
+      "translated": "Otrzymano nazw\u0119 kana\u0142u: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -721,7 +721,7 @@
       }
     }, 
     {
-      "translated": "Powtarzaj\u0105cy si\u0119 spacer wzi\u0105\u0142 za du\u017co powt\u00f3rze\u0144!", 
+      "translated": "Powtarzający się element rozdzielający zabrał zbyt wiele powtórzeń!", 
       "flags": [
         "google-translate"
       ], 
@@ -730,7 +730,7 @@
       }
     }, 
     {
-      "translated": "Wyr\u00f3wnaj:%s", 
+      "translated": "Wyrównaj: %s", 
       "flags": [
         "google-translate"
       ], 
@@ -739,7 +739,7 @@
       }
     }, 
     {
-      "translated": "Zaktualizuj w\u0142a\u015bciwo\u015bci (% i)%s (% i)", 
+      "translated": "Aktualizacja właściwości (%i) z %s (%i)", 
       "flags": [
         "google-translate"
       ], 
@@ -748,7 +748,7 @@
       }
     }, 
     {
-      "translated": "Aktualizacja w\u0142a\u015bciwo\u015bci%s = &#39;%s&#39; -&gt;%o", 
+      "translated": "Aktualizacja właściwości %s = '%s' -> %o", 
       "flags": [
         "google-translate"
       ], 
@@ -757,7 +757,7 @@
       }
     }, 
     {
-      "translated": "Has\u0142o kana\u0142u", 
+      "translated": "Hasło kanału", 
       "flags": [
         "google-translate"
       ], 
@@ -766,7 +766,7 @@
       }
     }, 
     {
-      "translated": "Has\u0142o kana\u0142u:", 
+      "translated": "Hasło kanału:", 
       "flags": [
         "google-translate"
       ], 
@@ -775,7 +775,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 g\u0142o\u015bno\u015b\u0107", 
+      "translated": "Zmień poziom głośności", 
       "flags": [
         "google-translate"
       ], 
@@ -784,7 +784,7 @@
       }
     }, 
     {
-      "translated": "Nastawi\u0107", 
+      "translated": "Reset", 
       "flags": [
         "google-translate"
       ], 
@@ -802,7 +802,7 @@
       }
     }, 
     {
-      "translated": "dobrze", 
+      "translated": "OK", 
       "flags": [
         "google-translate"
       ], 
@@ -811,7 +811,7 @@
       }
     }, 
     {
-      "translated": "Grupy serwer\u00f3w", 
+      "translated": "Grupy serwerowe", 
       "flags": [
         "google-translate"
       ], 
@@ -820,7 +820,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 rozwi\u0105za\u0107 grupy docelowej!", 
+      "translated": "Nie udało się rozwiązać problemu grupy docelowej!", 
       "flags": [
         "google-translate"
       ], 
@@ -829,7 +829,7 @@
       }
     }, 
     {
-      "translated": "Blisko", 
+      "translated": "Zamknij", 
       "flags": [
         "google-translate"
       ], 
@@ -838,7 +838,7 @@
       }
     }, 
     {
-      "translated": "Rozpocz\u0119cie ruchu myszy", 
+      "translated": "Uruchamianie ruchu myszy", 
       "flags": [
         "google-translate"
       ], 
@@ -847,7 +847,7 @@
       }
     }, 
     {
-      "translated": "Ustaw grup\u0119 serwer\u00f3w", 
+      "translated": "Ustaw grupę serwera", 
       "flags": [
         "google-translate"
       ], 
@@ -856,7 +856,7 @@
       }
     }, 
     {
-      "translated": "Ustaw grup\u0119 kana\u0142\u00f3w", 
+      "translated": "Ustaw grupę kanału", 
       "flags": [
         "google-translate"
       ], 
@@ -874,7 +874,7 @@
       }
     }, 
     {
-      "translated": "<b>Otw\u00f3rz czat tekstowy</b>", 
+      "translated": "<b>Otwórz czat tekstowy</b>", 
       "flags": [
         "google-translate"
       ], 
@@ -883,7 +883,7 @@
       }
     }, 
     {
-      "translated": "Poke klienta", 
+      "translated": "Zaczep klienta", 
       "flags": [
         "google-translate"
       ], 
@@ -892,7 +892,7 @@
       }
     }, 
     {
-      "translated": "Wiadomo\u015b\u0107 poke: <br>", 
+      "translated": "Wiadomość zaczepki:<br>", 
       "flags": [
         "google-translate"
       ], 
@@ -901,7 +901,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 opis", 
+      "translated": "Zmień opis", 
       "flags": [
         "google-translate"
       ], 
@@ -910,7 +910,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 opis klienta", 
+      "translated": "Zmień opis klienta", 
       "flags": [
         "google-translate"
       ], 
@@ -919,7 +919,7 @@
       }
     }, 
     {
-      "translated": "Nowy opis: <br>", 
+      "translated": "Nowy opis:<br>", 
       "flags": [
         "google-translate"
       ], 
@@ -928,7 +928,7 @@
       }
     }, 
     {
-      "translated": "Przenie\u015b klienta na sw\u00f3j kana\u0142", 
+      "translated": "Przenieś klienta na swój kanał", 
       "flags": [
         "google-translate"
       ], 
@@ -946,7 +946,7 @@
       }
     }, 
     {
-      "translated": "Wyrzu\u0107 przyczyn\u0119: <br>", 
+      "translated": "Komunikat wykopania:<br>", 
       "flags": [
         "google-translate"
       ], 
@@ -955,7 +955,7 @@
       }
     }, 
     {
-      "translated": "Kopnij klienta na serwerze", 
+      "translated": "Wykop klienta z serwera", 
       "flags": [
         "google-translate"
       ], 
@@ -964,16 +964,16 @@
       }
     }, 
     {
-      "translated": "Kopnij klienta z serwera", 
+      "translated": "Wykop klienta z kanału", 
       "flags": [
         "google-translate"
       ], 
       "key": {
-        "message": "Kick client from server"
+        "message": "Kick client from channel"
       }
     }, 
     {
-      "translated": "Zakaz klienta", 
+      "translated": "Zbanuj klienta", 
       "flags": [
         "google-translate"
       ], 
@@ -982,7 +982,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 g\u0142o\u015bno\u015b\u0107", 
+      "translated": "Zmień głośność", 
       "flags": [
         "google-translate"
       ], 
@@ -991,7 +991,7 @@
       }
     }, 
     {
-      "translated": "<b>Zmie\u0144 nazw\u0119</b>", 
+      "translated": "<b>Zmień nick</b>", 
       "flags": [
         "google-translate"
       ], 
@@ -1000,7 +1000,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 w\u0142asny opis", 
+      "translated": "Zmień swój opis", 
       "flags": [
         "google-translate"
       ], 
@@ -1009,7 +1009,7 @@
       }
     }, 
     {
-      "translated": "Zmiana w\u0142asnego opisu na%s", 
+      "translated": "Zmiana własnego opisu na %s", 
       "flags": [
         "google-translate"
       ], 
@@ -1018,7 +1018,7 @@
       }
     }, 
     {
-      "translated": "Nick zmieni\u0142 si\u0119", 
+      "translated": "Nick z powodzeniem zmienił się", 
       "flags": [
         "google-translate"
       ], 
@@ -1027,7 +1027,7 @@
       }
     }, 
     {
-      "translated": "Nie mo\u017cna zmieni\u0107 pseudonimu ({})", 
+      "translated": "Nie mogłem zmienić nicku ({})", 
       "flags": [
         "google-translate"
       ], 
@@ -1036,7 +1036,7 @@
       }
     }, 
     {
-      "translated": "<b>Zmie\u0144 nazw\u0119 bota</b>", 
+      "translated": "<b>Zmień nazwę bota</b>", 
       "flags": [
         "google-translate"
       ], 
@@ -1045,7 +1045,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 nazw\u0119 bota muzyki", 
+      "translated": "Zmień nazwę bota muzycznego", 
       "flags": [
         "google-translate"
       ], 
@@ -1054,7 +1054,7 @@
       }
     }, 
     {
-      "translated": "Nowy pseudonim: <br>", 
+      "translated": "Nowy nick:<br>", 
       "flags": [
         "google-translate"
       ], 
@@ -1063,7 +1063,7 @@
       }
     }, 
     {
-      "translated": "Zmie\u0144 opis bota", 
+      "translated": "Zmień opis bota", 
       "flags": [
         "google-translate"
       ], 
@@ -1090,7 +1090,7 @@
       }
     }, 
     {
-      "translated": "Szybkie powt\u00f3rzenie adresu URL", 
+      "translated": "Szybka powtórka URL", 
       "flags": [
         "google-translate"
       ], 
@@ -1126,7 +1126,7 @@
       }
     }, 
     {
-      "translated": "Kicking klienta%o z kana\u0142u z powodu%o", 
+      "translated": "Wykopano klienta %o z kana\u0142u, powód: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1135,7 +1135,7 @@
       }
     }, 
     {
-      "translated": "Usu\u0144 bota", 
+      "translated": "Usuń bota", 
       "flags": [
         "google-translate"
       ], 
@@ -1144,7 +1144,7 @@
       }
     }, 
     {
-      "translated": "Czy na pewno chcesz usun\u0105\u0107 {0}", 
+      "translated": "Czy na pewno chcesz usunąć {0}", 
       "flags": [
         "google-translate"
       ], 
@@ -1162,7 +1162,7 @@
       }
     }, 
     {
-      "translated": "Dobrze", 
+      "translated": "Ok", 
       "flags": [
         "google-translate"
       ], 
@@ -1171,7 +1171,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 rozwi\u0105za\u0107 uprawnie\u0144 do kana\u0142u dla nazwy%o", 
+      "translated": "Nie udało się rozwiązać kwestii uprawnienia do używania nazwy kanału %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1180,7 +1180,7 @@
       }
     }, 
     {
-      "translated": "Zaktualizowane uprawnienia%o", 
+      "translated": "Zaktualizowano uprawnienia %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1189,7 +1189,7 @@
       }
     }, 
     {
-      "translated": "Mam uprawnienia:%o", 
+      "translated": "Mam uprawnienia: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1207,7 +1207,7 @@
       }
     }, 
     {
-      "translated": "Nieprawid\u0142owy ruch na kanale (r\u00f3\u017cni rodzice! (%O |%o)", 
+      "translated": "Nieprawidłowe przesunięcie kanału (różni rodzice! (%o|%o)", 
       "flags": [
         "google-translate"
       ], 
@@ -1216,7 +1216,7 @@
       }
     }, 
     {
-      "translated": "Multiselect kana\u0142u", 
+      "translated": "Multiselect Kanały", 
       "flags": [
         "google-translate"
       ], 
@@ -1225,7 +1225,7 @@
       }
     }, 
     {
-      "translated": "Multiselect klienta", 
+      "translated": "Multiselect klient", 
       "flags": [
         "google-translate"
       ], 
@@ -1234,7 +1234,7 @@
       }
     }, 
     {
-      "translated": "Tylko muzyka:%o | Muzyka kontener\u00f3w:%o | Kontener lokalny:%o", 
+      "translated": "Tylko muzyka: %o | Muzyka z nośników: %o | Kontener lokalny: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1243,7 +1243,7 @@
       }
     }, 
     {
-      "translated": "Poke klient\u00f3w", 
+      "translated": "Zaczep klientów", 
       "flags": [
         "google-translate"
       ], 
@@ -1261,7 +1261,7 @@
       }
     }, 
     {
-      "translated": "Kick klient\u00f3w z kana\u0142u", 
+      "translated": "Wykop klient\u00f3w z kana\u0142u", 
       "flags": [
         "google-translate"
       ], 
@@ -1270,7 +1270,7 @@
       }
     }, 
     {
-      "translated": "Kopnij klient\u00f3w na serwerze", 
+      "translated": "Wykop klient\u00f3w z serwera", 
       "flags": [
         "google-translate"
       ], 
@@ -1279,7 +1279,7 @@
       }
     }, 
     {
-      "translated": "Kopiuj klient\u00f3w z serwera", 
+      "translated": "Wykop klient\u00f3w z serwera", 
       "flags": [
         "google-translate"
       ], 
@@ -1315,7 +1315,7 @@
       }
     }, 
     {
-      "translated": "Tworzenie nowego kana\u0142u. W\u0142a\u015bciwo\u015bci:%o Uprawnienia:%o", 
+      "translated": "Tworzenie nowego kana\u0142u. \nW\u0142a\u015bciwo\u015bci: %o \nUprawnienia: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1324,7 +1324,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 rozwi\u0105za\u0107 kana\u0142u po utworzeniu. Nie mo\u017cna zastosowa\u0107 uprawnie\u0144!", 
+      "translated": "Nie udało się rozwiązać problemu kanału po utworzeniu. Nie można było zastosować uprawnień!", 
       "flags": [
         "google-translate"
       ], 
@@ -1342,7 +1342,7 @@
       }
     }, 
     {
-      "translated": "d\u017awi\u0119k odtwarzania%o", 
+      "translated": "d\u017awi\u0119k odtwarzania %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1351,7 +1351,7 @@
       }
     }, 
     {
-      "translated": "Brak d\u017awi\u0119ku%o", 
+      "translated": "Brak dźwięku %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1360,7 +1360,7 @@
       }
     }, 
     {
-      "translated": "Korzystanie z buforowanego bufora:%o", 
+      "translated": "Korzystanie z buforowanego bufora: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1387,7 +1387,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 zdekodowa\u0107 danych d\u017awi\u0119kowych dla%o", 
+      "translated": "Nie uda\u0142o si\u0119 zdekodowa\u0107 danych d\u017awi\u0119kowych dla %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1396,7 +1396,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 za\u0142adowa\u0107 pliku audio. (Kod odpowiedzi%o)", 
+      "translated": "Nieudane wczytanie pliku audio. (Kod odpowiedzi %o)", 
       "flags": [
         "google-translate"
       ], 
@@ -1405,7 +1405,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 za\u0142adowa\u0107 pliku audio", 
+      "translated": "Nieudane wczytanie pliku audio", 
       "flags": [
         "google-translate"
       ], 
@@ -1414,7 +1414,7 @@
       }
     }, 
     {
-      "translated": "Powtarzanie%s", 
+      "translated": "Powtórzenie %s", 
       "flags": [
         "google-translate"
       ], 
@@ -1423,7 +1423,7 @@
       }
     }, 
     {
-      "translated": "Twoja przegl\u0105darka nie obs\u0142uguje dekodowaniaAudioData! U\u017cywanie w\u0119z\u0142a do odtwarzania! Pomija to wyj\u015bcie audio i regulacj\u0119 g\u0142o\u015bno\u015bci!", 
+      "translated": "Twoja przeglądarka nie obsługuje dekodowania AudioData! Używanie węzła do odtwarzania! To omija wyjście audio i regulację głośności!", 
       "flags": [
         "google-translate"
       ], 
@@ -1432,7 +1432,7 @@
       }
     }, 
     {
-      "translated": "Zosta\u0142e\u015b szturchni\u0119ty!", 
+      "translated": "Zostałeś zaczepiony", 
       "flags": [
         "google-translate"
       ], 
@@ -1441,7 +1441,7 @@
       }
     }, 
     {
-      "translated": "Pod\u0142\u0105czone gniazdo", 
+      "translated": "Gniazdo podłączone", 
       "flags": [
         "google-translate"
       ], 
@@ -1459,7 +1459,7 @@
       }
     }, 
     {
-      "translated": "\u0141\u0105czenie z {0}: {1}", 
+      "translated": "Łączenie z {0}:{1}", 
       "flags": [
         "google-translate"
       ], 
@@ -1468,7 +1468,7 @@
       }
     }, 
     {
-      "translated": "Wywo\u0142any limit czasu po\u0142\u0105czenia!", 
+      "translated": "Wywołano limit czasu na połączenie!", 
       "flags": [
         "google-translate"
       ], 
@@ -1495,7 +1495,7 @@
       }
     }, 
     {
-      "translated": "Po\u0142\u0105czenie zamkni\u0119te", 
+      "translated": "Połączenie zamknięte", 
       "flags": [
         "google-translate"
       ], 
@@ -1522,7 +1522,7 @@
       }
     }, 
     {
-      "translated": "Nieznany typ polecenia%o", 
+      "translated": "Nieznany typ polecenia %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1531,7 +1531,7 @@
       }
     }, 
     {
-      "translated": "Obs\u0142uga polecenia &quot;%s&quot;", 
+      "translated": "Obs\u0142uga polecenia '%s'", 
       "flags": [
         "google-translate"
       ], 
@@ -1549,7 +1549,7 @@
       }
     }, 
     {
-      "translated": "Brakuj\u0105ce polecenie &quot;%s&quot;", 
+      "translated": "Brakuj\u0105ce polecenie '%s'", 
       "flags": [
         "google-translate"
       ], 
@@ -1558,7 +1558,7 @@
       }
     }, 
     {
-      "translated": "Niewystarczaj\u0105ce uprawnienia klienta. Niepowodzenie za pozwoleniem", 
+      "translated": "Niewystarczaj\u0105ce uprawnienia klienta. Nie udało się uzyskać zezwolenia", 
       "flags": [
         "google-translate"
       ], 
@@ -1567,7 +1567,7 @@
       }
     }, 
     {
-      "translated": "Niewystarczaj\u0105ce uprawnienia klienta. B\u0142\u0105d przy zezwoleniu {}", 
+      "translated": "Niewystarczaj\u0105ce uprawnienia klienta. Nie udało się uzyskać zezwolenia {}", 
       "flags": [
         "google-translate"
       ], 
@@ -1576,7 +1576,7 @@
       }
     }, 
     {
-      "translated": "Wykonanie polecenia ko\u0144czy si\u0119", 
+      "translated": "Rezultatem wykonania polecenia jest", 
       "flags": [
         "google-translate"
       ], 
@@ -1585,7 +1585,7 @@
       }
     }, 
     {
-      "translated": "Nieprawid\u0142owy typ wyniku obietnicy:%o. Wynik:", 
+      "translated": "Nieprawidłowy typ wyniku przyrzeczenia: %o. Wynik:", 
       "flags": [
         "google-translate"
       ], 
@@ -1657,7 +1657,7 @@
       }
     }, 
     {
-      "translated": "Otrzyma\u0142em% d nowych kana\u0142\u00f3w", 
+      "translated": "Otrzyma\u0142em %d nowych kana\u0142\u00f3w", 
       "flags": [
         "google-translate"
       ], 
@@ -1666,7 +1666,7 @@
       }
     }, 
     {
-      "translated": "Usuni\u0119to% d kana\u0142\u00f3w", 
+      "translated": "Usuni\u0119to %d kana\u0142\u00f3w", 
       "flags": [
         "google-translate"
       ], 
@@ -1684,7 +1684,7 @@
       }
     }, 
     {
-      "translated": "% D ukry\u0142 kana\u0142", 
+      "translated": "%d ukry\u0142 kana\u0142", 
       "flags": [
         "google-translate"
       ], 
@@ -1738,7 +1738,7 @@
       }
     }, 
     {
-      "translated": "Nieznany reasonid dla%o", 
+      "translated": "Nieznany reasonid dla %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1747,7 +1747,7 @@
       }
     }, 
     {
-      "translated": "Nieznany klient w lewo!", 
+      "translated": "Nieznany klient wyszedł!", 
       "flags": [
         "google-translate"
       ], 
@@ -1774,7 +1774,7 @@
       }
     }, 
     {
-      "translated": "Us\u0142uga {0} zosta\u0142a wyrzucona z serwera przez {1}. {2}", 
+      "translated": "Us\u0142uga {0} zosta\u0142a wyrzucona z serwera przez {1}.{2}", 
       "flags": [
         "google-translate"
       ], 
@@ -1792,7 +1792,7 @@
       }
     }, 
     {
-      "translated": "{0} zosta\u0142o zbanowane {1} przed {2}. {3}", 
+      "translated": "{0} zosta\u0142o zbanowane {1} przed {2}.{3}", 
       "flags": [
         "google-translate"
       ], 
@@ -1873,7 +1873,7 @@
       }
     }, 
     {
-      "translated": "Wyrzucono Ci\u0119 z kana\u0142u {1} na kana\u0142 {2} o {3} {4}", 
+      "translated": "Wyrzucono Ci\u0119 z kana\u0142u {1} na kana\u0142 {2} przez {3}{4}", 
       "flags": [
         "google-translate"
       ], 
@@ -1882,7 +1882,7 @@
       }
     }, 
     {
-      "translated": "{0} zosta\u0142o wyrzucone z kana\u0142u {1} do {2} o {3} {4}", 
+      "translated": "{0} zosta\u0142o wyrzucone z kana\u0142u {1} do {2} przez {3}{4}", 
       "flags": [
         "google-translate"
       ], 
@@ -1954,7 +1954,7 @@
       }
     }, 
     {
-      "translated": "Otrzyma\u0142em informacj\u0119 o odtwarzaczu muzyki dla nieznanego lub nieprawid\u0142owego bota! (ID:% i, wpis:%o)", 
+      "translated": "Otrzyma\u0142em informacj\u0119 o odtwarzaczu muzyki dla nieznanego lub nieprawid\u0142owego bota! (ID: %i, wpis: %o)", 
       "flags": [
         "google-translate"
       ], 
@@ -1963,7 +1963,7 @@
       }
     }, 
     {
-      "translated": "Korzystanie z mened\u017cera informacji:%o", 
+      "translated": "Korzystanie z mened\u017cera informacji: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -1972,7 +1972,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 za\u0142adowa\u0107 hosta:%o", 
+      "translated": "Nie uda\u0142o si\u0119 za\u0142adowa\u0107 hosta: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2017,7 +2017,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 uruchomi\u0107 odtwarzania. <br> {}", 
+      "translated": "Nie uda\u0142o si\u0119 uruchomi\u0107 odtwarzania.<br>{}", 
       "flags": [
         "google-translate"
       ], 
@@ -2035,7 +2035,7 @@
       }
     }, 
     {
-      "translated": "Nie uda\u0142o si\u0119 wykona\u0107 pauzy. <br> {}", 
+      "translated": "Nie uda\u0142o si\u0119 wykona\u0107 pauzy.<br>{}", 
       "flags": [
         "google-translate"
       ], 
@@ -2098,7 +2098,7 @@
       }
     }, 
     {
-      "translated": "Rodzice:%o | %o", 
+      "translated": "Rodzice: %o | %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2107,7 +2107,7 @@
       }
     }, 
     {
-      "translated": "Gracz:%o | z oo", 
+      "translated": "Gracz: %o | %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2116,7 +2116,7 @@
       }
     }, 
     {
-      "translated": "Skala:% f =&gt; przet\u0142umacz:%o | %o", 
+      "translated": "Skala: %f => przet\u0142umacz: %o | %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2161,7 +2161,7 @@
       }
     }, 
     {
-      "translated": "% i &lt;&gt;%s -&gt;%s", 
+      "translated": "%i &lt;&gt; %s -&gt;%s", 
       "flags": [
         "google-translate"
       ], 
@@ -2170,7 +2170,7 @@
       }
     }, 
     {
-      "translated": "Mam uprawnienia% i", 
+      "translated": "Mam uprawnienia %i", 
       "flags": [
         "google-translate"
       ], 
@@ -2188,7 +2188,7 @@
       }
     }, 
     {
-      "translated": "Masz% d potrzebnych uprawnie\u0144.", 
+      "translated": "Masz %d potrzebnych uprawnie\u0144.", 
       "flags": [
         "google-translate"
       ], 
@@ -2305,7 +2305,7 @@
       }
     }, 
     {
-      "translated": "Mam klucz%o", 
+      "translated": "Mam klucz %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2350,7 +2350,7 @@
       }
     }, 
     {
-      "translated": "Wybrane urz\u0105dzenie mikrofonu: id:%o grupa:%o", 
+      "translated": "Wybrane urz\u0105dzenie mikrofonu: id: %o grupa: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2467,7 +2467,7 @@
       }
     }, 
     {
-      "translated": "Usuni\u0119cie ban%o", 
+      "translated": "Usuni\u0119cie bana %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2485,7 +2485,7 @@
       }
     }, 
     {
-      "translated": "Masz banlist\u0119:%o", 
+      "translated": "Masz banlist\u0119: %o", 
       "flags": [
         "google-translate"
       ], 
@@ -2494,7 +2494,7 @@
       }
     }, 
     {
-      "translated": "Brak wpisu bankowego z identyfikatorem% d", 
+      "translated": "Brak wpisu bankowego z identyfikatorem %d", 
       "flags": [
         "google-translate"
       ], 
